@@ -31,6 +31,7 @@
             "group": "Arena",
             "pages": [
               "index",
+              "invitation",
               "getting-started",
               "muse",
               "competitions",
